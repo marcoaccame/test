@@ -1,0 +1,23 @@
+site_name: Some of the 500
+nav:
+    - Home: index.md
+    - The top 10: 
+      - The list: from001to010/top10.md
+      - Number 1: from001to010/number001/num001.md
+      - Number 2: from001to010/number002/num002.md
+      - Number 3: from001to010/number003/num003.md
+      - Number 4: from001to010/number004/num004.md
+      - The others: from001to010/theothers/theothers.md
+
+    - Number 1: from001to010/number001/num001.md
+    - Number 2: from001to010/number002/num002.md
+    - Number 3: from001to010/number003/num003.md
+    - Number 4: from001to010/number004/num004.md
+    - The others: from001to010/theothers/theothers.md
+
+    - Number 1: from001to010/number001/num001.md
+
+
+
+#theme: readthedocs
+theme: mkdocs
