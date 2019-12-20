@@ -20,3 +20,8 @@ the icub project.
 * For mkdocs visit [mkdocs.org](https://mkdocs.org).
 * For a complete list of the 500 greatest visit [rollingstones.com](https://www.rollingstone.com/music/music-lists/500-greatest-albums-of-all-time-156826/).
 * For icub visit [icub](http://wiki.icub.org/wiki/Main_Page)
+
+
+<video style="display: block;margin-left: auto;margin-right: auto;width:70%; border:solid 1px" controls autoplay muted>
+    <source src="huge/video.mp4">
+</video>
