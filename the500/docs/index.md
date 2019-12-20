@@ -11,7 +11,9 @@ site.
 i do that because i want to use mkdocs to create great documentation for
 the icub project.
 
-
+<video style="display: block;margin-left: auto;margin-right: auto;width:70%; border:solid 1px" controls autoplay muted>
+    <source src="huge/video.mp4">
+</video>
 
 ## references
 
