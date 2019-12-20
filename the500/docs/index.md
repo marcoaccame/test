@@ -25,3 +25,10 @@ the icub project.
 <video style="display: block;margin-left: auto;margin-right: auto;width:70%; border:solid 1px" controls autoplay muted>
     <source src="huge/video.mp4">
 </video>
+
+
+
+
+
+![](huge/imgs/1.jpg)
+
